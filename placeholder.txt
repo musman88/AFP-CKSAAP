@@ -1,0 +1,5 @@
+
+Replace line#20 in CKSAAP.py with the following code:
+
+
+def CKSAAP(fastas, gap=8, **kw):
