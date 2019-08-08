@@ -32,8 +32,13 @@ The CKSAAP feature encoding calculates the frequency of amino acid pairs separat
 A sample feature file has been uploaded named "Sample_Features.csv"
 
 # Validation
-Download and run the followning files:
-- CKSAAP_AFP_Pred.py
+Download AFP-CKSAAP folder from:
+https://www.dropbox.com/sh/3tgmhpl5hqo3i7m/AACEY90329cZd1B6O-9gpBqPa?dl=0
+The folder contains following files:
+- AFP-CKSAAP.py
 - utilis.py
-- data.h5
 - my_model.h5
+- data.h5
+
+In a python compiler, run AFP-CKSAAP.py
+
