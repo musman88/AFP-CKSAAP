@@ -22,6 +22,6 @@ The CKSAAP feature descriptors can be extracted using the command
 **path/iFeature-master>python iFeature.py --file xyz/test-protein.txt --type CKSAAP --out xyz/test-protein-features.txt**
 
 
-The CKSAAP feature encoding calculates the frequency of amino acid pairs separated by any k residues. The default value of k is 5. To change the the value of k a file named "placeholder.py" has been uploaded. The value of k can be replaced by an integer. The features used in this paper were extracted by selecting the value of k=8.
+The CKSAAP feature encoding calculates the frequency of amino acid pairs separated by any k residues. The default value of k is 5. To change the the value of k open "CKSAAP.py" and replace gap="5" in line no 20 to any other integer > 0. A file named "placeholder.txt" has been uploaded with the aforementioned modification in line 20 of "CKSAAP.py".  The features used in this paper were extracted by selecting the value of k=8.
 
 A sample feature file has been uploaded named "Sample_Features.csv"
