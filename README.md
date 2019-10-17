@@ -1,6 +1,6 @@
 # AFP-CKSAAP
 AFP-CKSAAP: Prediction of Antifreeze Proteins Using Composition of k-Spaced Amino Acid Pairs with Deep Neural Network
-
+Download pdf: https://arxiv.org/pdf/1910.06392v1.pdf
 # Requirements
 - Python >= 3.5.4
 - Tensorflow = 1.13.1
